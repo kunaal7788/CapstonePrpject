@@ -1,0 +1,7 @@
+stepDefinitions\UserSteps.class
+runners\TestRunner.class
+stepDefinitions\OrderPlacementSteps.class
+stepDefinitions\ShoppingCartSteps.class
+stepDefinitions\SearchSteps.class
+stepDefinitions\HomePageSteps.class
+stepDefinitions\ProductDetailsSteps.class
